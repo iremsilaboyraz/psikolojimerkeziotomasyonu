@@ -38,13 +38,12 @@ Geleneksel kağıt-kalem veya karmaşık Excel dosyaları yerine; psikologların
 - Günlük/Aylık randevu yoğunluk grafikleri.
 - Gelir/Gider takibi (Opsiyonel).
 
+
 ## 📷 Ekran Görüntüleri
 
 | Giriş Ekranı | Ajanda | Admin Panel | Klinik Sayfa |
-| :---: | :---: || :---: | :---: |
-| ![Giriş Ekranı](resimler/giris.png) | ![Ajanda](resimler/ajanda.png) |![Admin Panel](resimler/admin.png) |![Klinik Sayfa](resimler/seans.png) |
-
-
+| :---: | :---: | :---: | :---: |
+| ![Giriş Ekranı](resimler/giris.png) | ![Ajanda](resimler/ajanda.png) | ![Admin Panel](resimler/admin.png) | ![Klinik Sayfa](resimler/seans.png) |
 
 
 
